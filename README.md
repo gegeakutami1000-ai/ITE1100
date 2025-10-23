@@ -15,7 +15,7 @@ Steps followed:
 
 Names of collaborators:
 
-Darindra Charan
+Darindra Charan,
 Arianna Seepersaud
 
 
